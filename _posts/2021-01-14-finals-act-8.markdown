@@ -1,0 +1,45 @@
+---
+layout: post
+categories: jekyll update
+title:  "FINAL-ACT-8"
+---
+
+![104281202-16681d80-54e8-11eb-9078-1ef278217c83](https://user-images.githubusercontent.com/75325962/104575255-ea889b80-5691-11eb-9cff-aff07244d103.png)
+
+
+1. Fork this repository [https://github.com/ajcanlas-tip/sysad2-12021.git](https://github.com/ajcanlas-tip/sysad2-12021.git)
+
+2. Clone your newly forked repository. 
+
+3. Make a new branch named "activity8" from master branch using *git branch activity8* and *git checkout activity8*
+
+4. Make a new remote upstream with git remote add upstream [https://github.com/ajcanlas-tip/sysad2-12021.git](https://github.com/ajcanlas-tip/sysad2-12021.git)
+
+5. Install Docker and enable the docker socket.
+
+6. Add to docker group to your current user.
+
+7. Create a Dockerfile to install web and db server
+
+8. Install and build the Dockerfile using Ansible.
+
+9. add,commit and push it to your activity8 branch
+
+10. Request a pull request for the master branch in [https://github.com/ajcanlas-tip/sysad2-12021.git](https://github.com/ajcanlas-tip/sysad2-12021.git) and activity7 branch of your forked repository  
+
+### SUMMARIZATION PATH:
+
+Git branch link: [https://github.com/qjaaferrer/sysad2-12021/tree/activity8/activity8](https://github.com/qjaaferrer/sysad2-12021/tree/activity8/activity8)
+
+```
+.
+ README.md
+ ansible.cfg
+ docker.yaml
+ dockerfiles
+     db_server
+      dockerfile
+     web_server
+         dockerfile
+         index.html
+```
