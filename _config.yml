@@ -22,7 +22,7 @@ title: Managing Enterprise Servers Portfolio
 email: qjaaferrer@tip.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
   I will have an administrative system where there is no way to extricate red tape.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "qjaaferrer.github.io" # the subpath of your site, e.g. /blog
 url: "jaja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  qjaaferrer
 
