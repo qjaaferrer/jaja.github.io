@@ -28,10 +28,6 @@ github_username:  qjaaferrer
 
 # Build settings
 theme: minima
-markdown: kramdown
-markdown_ext: markdown, mkdown, mkdn, mkd, md
-permalink: /:year/:title/
-destination: ./_site
 plugins:
   - jekyll-feed
 
